@@ -3,7 +3,7 @@
 	"cars": [{
 		"manufacturer": "VW",
 		"model": "Passat Alltrack",
-    "img": "https://gazzu.solid.community/public/cars/vw-alltrack.png",
+    "img": "https://immagini.alvolante.it/sites/default/files/styles/editor_1_colonna/public/primo_contatto_galleria/2015/09/volkswagen-passat-alltrack-2015_08.jpg",
     "size": {
       "width": 400,
       "height": 223
@@ -11,7 +11,7 @@
 	}, {
 		"manufacturer": "Fiat",
 		"model": "Toro Suv",
-    "img": "https://gazzu.solid.community/public/cars/fiat-toro-suv.png",
+    "img": "https://www.clubalfa.it/wp-content/uploads/2018/03/Fiat-Toro-Endurance-Brasile-2-758x419.jpg",
     "size": {
       "width": 400,
       "height": 243
@@ -19,7 +19,7 @@
 	}, {
 		"manufacturer": "Ferrari",
 		"model": "Dino",
-    "img": "https://gazzu.solid.community/public/cars/ferrari-new-dino.png",
+    "img": "https://motori.virgilio.it/wp-content/uploads/sites/4/2018/05/nuova-generazione-ferrari-dino-246.jpg",
     "size": {
       "width": 400,
       "height": 228
@@ -27,7 +27,7 @@
 	}, {
 		"manufacturer": "Lamborghini",
 		"model": "Urus",
-    "img": "https://gazzu.solid.community/public/cars/lamborghini-urus.png",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-lamborghini-urus-mmp-1-1592423712.jpg",
     "size": {
       "width": 400,
       "height": 225
